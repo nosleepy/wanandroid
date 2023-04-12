@@ -96,7 +96,7 @@ class LoginScreenState extends State<LoginScreen> {
                 padding: const EdgeInsets.only(top: 10),
                 child: TextButton(
                   onPressed: () {
-
+                    Navigator.of(context).pop();
                   },
                   child: const Text("还没有账号，注册一个？", style: TextStyle(fontSize: 14),),
                 ),
