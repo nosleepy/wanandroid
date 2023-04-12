@@ -2,6 +2,10 @@
 
 基于玩Android开放API仿写的简易Flutter版本客户端。
 
+```shell
+flutter run --no-sound-null-safety
+```
+
 + [玩Android 开放API](https://www.wanandroid.com/blog/show/2)
 + [Flutter 版 WanAndroid 客户端](https://github.com/iceCola7/flutter_wanandroid)
 + [json转实体类](https://app.quicktype.io/)
