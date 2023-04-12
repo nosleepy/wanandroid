@@ -6,6 +6,8 @@
 flutter run --no-sound-null-safety
 ```
 
+![](https://raw.githubusercontent.com/nosleepy/picture/master/img/wanandroid_main_screen.png)
+
 + [玩Android 开放API](https://www.wanandroid.com/blog/show/2)
 + [Flutter 版 WanAndroid 客户端](https://github.com/iceCola7/flutter_wanandroid)
 + [json转实体类](https://app.quicktype.io/)
